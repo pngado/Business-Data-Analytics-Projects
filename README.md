@@ -20,6 +20,7 @@ Moreover, every year companies conduct Sentiment and Qualitative surveys to bett
 * Discussed important concepts and processes in text mining - documents, corpus, tokens/terms, text pre-processinng. 
 * Used PorterStemmer algorithm for stemming
 
+
 📌 RPOJECT 2: CUSTOMER SEGMENTATION
 
 In this project, I peform Hierarchical Clustering in Python to identify natural segments of customers in the public dataset 'Mall Customer Segmentation Data'. 
@@ -32,6 +33,7 @@ You are owning a supermarket mall and through membership cards , you have some b
 * Determined the number of clusters (potential customer segments) in the dataset
 * Delivered insights on the customers and their spending patterns at the mall
 * Performend Exploratory Data Analysis (EDA)
+
 
 📌 PROJECT 3: WALMART RETAIL DATA ANALYSIS
 

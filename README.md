@@ -1,7 +1,7 @@
 # Business-Data-Analytics-Projects
 Analytics projects using public datasets 
 
-##📌 PROJECT 1: COZYORGANIC RETAIL DATA ANALYSIS 
+📌 ##PROJECT 1: COZYORGANIC RETAIL DATA ANALYSIS 
 
 In this project, I use Excel PivotTable and visualization tools to extract insights from a fictional datatset of Cozyorganic. 
 

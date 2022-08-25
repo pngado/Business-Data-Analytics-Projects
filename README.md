@@ -1,7 +1,7 @@
 # Business-Data-Analytics-Projects
 Analytics projects using public datasets 
 
-📌 PROJECT 1: COZYORGANIC RETAIL DATA ANALYSIS 
+##📌 PROJECT 1: COZYORGANIC RETAIL DATA ANALYSIS 
 
 In this project, I use Excel PivotTable and visualization tools to extract insights from a fictional datatset of Cozyorganic. 
 
@@ -21,7 +21,7 @@ Moreover, every year companies conduct Sentiment and Qualitative surveys to bett
 * Used PorterStemmer algorithm for stemming
 
 
-📌 RPOJECT 2: CUSTOMER SEGMENTATION
+##📌 RPOJECT 2: CUSTOMER SEGMENTATION
 
 In this project, I peform Hierarchical Clustering in Python to identify natural segments of customers in the public dataset 'Mall Customer Segmentation Data'. 
 
@@ -35,7 +35,7 @@ You are owning a supermarket mall and through membership cards , you have some b
 * Performend Exploratory Data Analysis (EDA)
 
 
-📌 PROJECT 3: WALMART RETAIL DATA ANALYSIS
+##📌 PROJECT 3: WALMART RETAIL DATA ANALYSIS
 
 In this project, I use different data analysis and visualization techniques in Python to extract insights from the public dataset 'Walmart Dataset (Retail)'. 
 
